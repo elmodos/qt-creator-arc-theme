@@ -1,6 +1,6 @@
 # Qt Creator Arc Theme
 QtCreator UI theme based on flat dark
-- - - 
+
 ![Main Window](https://github.com/elmodos/qt-creator-arc-theme/blob/master/flat-arc.png)
 
 # Install
@@ -11,3 +11,6 @@ QtCreator UI theme based on flat dark
 
 ## Linux
 `cp flat-arc.creatortheme ~/.config/QtProject/qtcreator/themes/`
+
+### Color scheme
+![foxoman/sublimematerial](https://github.com/foxoman/sublimematerial)
